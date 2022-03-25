@@ -15,41 +15,10 @@ On an advanced level: You can add an IMU (MPU-6050/MPU-9050) data, to get the or
 
 This project contains the sample code for arduino and image output of them used for simulation in proteus software.
 Simply implement your algorithm and test it out in proteus or real hardware. Share the .ino and image files of the same for each issue that you solve.
-Support open source software by participating in Hacktoberfest and get involved in open source.
-
-Please check all issues labelled as hacktoberfest to start contributing!
-Kindly consider leaving a ⭐ if you like the repository and our organisation.
-
-We are holding a virtual meetup on 2nd October, where we will be discussing OSS, GitHub and Hacktoberfest! Everyone's invited to join 😄
-Getting Started
 
 Even this pandemic can’t stop us from making hardware projects, thanks to the simulators.
 
-We recommend using microcontroller based boards like Arduino,etc.
+## I recommend using microcontroller based boards like Arduino,etc.
 
-To get started with Arduino and it’s IDE follow this playlist
-We recommend using Proteus to simulate the project and test it in case you don’t have access to the hardware components.
-
-Follow this video to get started with how to use Proteus
-
-Fork the repo
-
-Clone your forked repo and move inside it:
-
-git clone https://github.com/IEEE-VIT/Obstacle-Avoider.git
-cd Obstacle-Avoider
-Checkout to a new branch to work on an issue:
-
-git checkout -b my-amazing-feature
-Now you can open the project and write your code
-
-Once you're all done coding, it's time to open a PR :) Run the following commands from the root of the project directory:
-
-git add .
-git commit -m "A short description about the feature.
-git push origin <my-amazing-feature>
-Open your forked repo in your browser and then raise a PR to the master branch of this repository!
-
-Contributing
-
-To start contributing, check out CONTRIBUTING.md. New contributors are always welcome to support this project. If you want something gentle to start with, check out issues labelled as easy or good-first-issue. Check out issues labelled as hacktoberfest if you are up for some grabs! :)
+# To get started with Arduino and it’s IDE follow this playlist
+I recommend using Proteus to simulate the project and test it in case you don’t have access to the hardware components.
