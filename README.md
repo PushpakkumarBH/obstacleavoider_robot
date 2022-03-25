@@ -18,7 +18,7 @@ Simply implement your algorithm and test it out in proteus or real hardware. Sha
 
 Even this pandemic can’t stop us from making hardware projects, thanks to the simulators.
 
-## I recommend using microcontroller based boards like Arduino,etc.
+### I recommend using microcontroller based boards like Arduino,etc.
 
-# To get started with Arduino and it’s IDE follow this playlist
+To get started with Arduino and it’s IDE follow this playlist
 I recommend using Proteus to simulate the project and test it in case you don’t have access to the hardware components.
