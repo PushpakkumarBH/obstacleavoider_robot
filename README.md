@@ -1,5 +1,5 @@
-# obstacleavoider_robot
-ObstacleAvoider
+
+# ObstacleAvoider
 
 
 Obstacle Avoider is an intelligent device which can automatically sense the obstacle in front of it and avoid them by turning itself.
